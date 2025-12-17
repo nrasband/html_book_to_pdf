@@ -1,0 +1,1 @@
+This script converts an HTML book to a PDF book. Specifically, it works for books similar to "Learn C the Hard Way" where all of the links are on one page, and visiting each link and converting the HTML at the URL to a PDF is sufficient to capture all of the book's content.
